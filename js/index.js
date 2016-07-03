@@ -36,7 +36,7 @@ function changeId(swiper){
 
 var music=document.getElementById('music');
 var audioMusic=document.getElementById('audioMusic');
-    audioMusic.volume=0.4;
+    audioMusic.volume=.4;
 window.setTimeout(function(){
     audioMusic.play();
     audioMusic.oncanplay = function(){

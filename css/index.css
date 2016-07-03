@@ -45,7 +45,7 @@ html,body,.swiper-container,.swiper-slide{
 }
 .swiper-slide{
     position:relative;
-    font-size:0.16rem;
+    font-size:0.30rem;
     font-family:'Microsoft YaHei';
 }
 .page1,.page2,.page3,.page4,.page5{
@@ -55,8 +55,8 @@ background:url('../img/sunrise.jpg') no-repeat;
 .page1 .text ul{
     position:absolute;
     top:5.0rem;
-    left:1.8rem;
-    font-size:0.2rem;
+    left:1.6rem;
+    font-size:0.3rem;
     line-height:0.5rem;
     text-align:center;
     letter-spacing:0.05rem;
@@ -66,7 +66,7 @@ background:url('../img/sunrise.jpg') no-repeat;
      top:2.3rem;
      left:1.8rem;
      letter-spacing:0.4rem;
-     font-size:0.5rem;
+     font-size:0.6rem;
      font-weight:normal;
  }
 
@@ -506,10 +506,11 @@ position:absolute;
     position:absolute;
     left:2.3rem;
     top:2.5rem;
-    width:2.7rem;
+    width:3.0rem;
     line-height:0.6rem;
     color:#fff;
     opacity:0;
+    font-size:0.3rem;
 }
 #page4 .assess{
     -webkit-animation:zoomIn 2s linear both;
